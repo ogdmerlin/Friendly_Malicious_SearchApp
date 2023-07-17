@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #504949;
+  margin: 0;
+  padding: 20px;
+}
+
+.mal-check {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: #333333;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #333333;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+input[type="submit"]:hover {
+  background-color: #14c01d;
+}
+
+input[type="reset"]:hover {
+  background-color: #f40c0c;
+}
+
+input[type="submit"] {
+  background-color: #337ab7;
+}
+
+input[type="reset"] {
+  background-color: #d9534f;
+}

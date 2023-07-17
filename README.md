@@ -1,4 +1,4 @@
-# Project Name: Malicious Search App
+https://github.com/ogdmerlin/Friendly_Malicious_SearchApp# Project Name: Malicious Search App
 
 ## Description
 The Malicious Search App is a powerful tool designed to detect and identify malicious links and URLs. It utilizes the VirusTotal API, a leading platform for scanning files and URLs for malware and phishing threats. With this app, users can easily check the safety of any link by simply providing the URL.
@@ -12,7 +12,7 @@ The Malicious Search App is a powerful tool designed to detect and identify mali
 
 ## Installation
 To use the Malicious Search App, follow these steps:
-1. Clone the repository from GitHub: [repository_link](https://github.com/OGDMERLIN/malicious-search-app)
+1. Clone the repository from GitHub: [repository_link](https://github.com/ogdmerlin/Friendly_Malicious_SearchApp)
 2. Obtain a VirusTotal API key by signing up on the VirusTotal website.
 3. Replace the placeholder API key in the script with your own API key.
 4. Run the script and start scanning URLs for malicious content.
