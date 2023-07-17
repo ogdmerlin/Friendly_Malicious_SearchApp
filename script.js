@@ -36,7 +36,7 @@ function checkSafety(url) {
     // Make a request to the VirusTotal API
     fetch(apiUrl, {
       headers: {
-        'x-apikey': "50e61a0af11c868bafd7cf8528bfc06304ef6eb695d6a024148fef3cd9ea0a1f"
+        'x-apikey': apiKey
       }
     })
       .then(response => response.json())
